@@ -1,0 +1,35 @@
+body	{
+	width: 100%;
+	margin: 0;
+
+}
+
+header{
+
+	height: auto;
+	b
+}
+
+header h1{
+	background:#dd9831d1;
+	position: fixed;
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+}
+
+section{
+	width: 100%;
+
+}
+
+img{
+	width: 50%;
+	height: 50%;
+}
+
+ul{
+	list-style: none;
+}
